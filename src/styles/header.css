@@ -1,0 +1,50 @@
+body {
+  width: 100%;
+}
+
+.logo {
+  width: 140px;
+  padding-bottom: 30px;
+  background-color: #d8d065;
+  border-radius: 10px;
+}
+
+.navbar {
+  background-color: #000000; /* Cor de fundo do header */
+  color: #f1ebeb; /* Cor do texto */
+  padding: 10px 0; /* Espaçamento interno */
+  text-align: center; /* Alinhar o conteúdo no centro */
+  margin-bottom: 10px;
+  height: max-content;
+  line-height: 40px;
+  margin: 0;
+}
+
+.navbartext {
+  color: white;
+  font-size: 27px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Estilo para o título do header */
+header h1 {
+  margin: 0; /* Remover margem padrão */
+}
+
+nav {
+  margin-top: 10px; 
+}
+
+nav a {
+  color: #fff; 
+  text-decoration: none; 
+  padding: 0 10px; 
+  border-radius: 10px;
+}
+
+
+nav a:hover {
+  background-color: #cfc74d; 
+}
+
+
