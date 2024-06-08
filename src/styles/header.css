@@ -10,10 +10,10 @@ body {
 }
 
 .navbar {
-  background-color: #000000; /* Cor de fundo do header */
-  color: #f1ebeb; /* Cor do texto */
-  padding: 10px 0; /* Espaçamento interno */
-  text-align: center; /* Alinhar o conteúdo no centro */
+  background-color: #000000; 
+  color: #f1ebeb; 
+  padding: 10px 0; 
+  text-align: center; 
   margin-bottom: 10px;
   height: max-content;
   line-height: 40px;
@@ -26,9 +26,8 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* Estilo para o título do header */
 header h1 {
-  margin: 0; /* Remover margem padrão */
+  margin: 0;
 }
 
 nav {

@@ -7,8 +7,8 @@ import Theme from "../pages/theme";
 
 export default function AppRoutes() {
   return (
-    <BrowserRouter> {/* responsável por englobar o app em navegação */}
-      <Routes> {/* responsável pelas rotas */}
+    <BrowserRouter> 
+      <Routes> 
         <Route path="/" element={<Body />}>
           <Route path="/" element={<Inicial />} />
           <Route path="/sobre" element={<Sobre />} />
